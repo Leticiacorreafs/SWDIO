@@ -1,84 +1,76 @@
-Projeto QA
-A Prática de Testes Manuais Funcionais
-Objetivo
-Este projeto tem como objetivo aplicar na prática os conceitos de Testes Manuais Funcionais, simulando atividades realizadas no dia a dia de um profissional de QA dentro de um ambiente ágil.
+# 📌 Projeto QA  
+## A Prática de Testes Manuais Funcionais
 
- Atividades Desenvolvidas
-Levantamento e análise de requisitos
+---
 
+## 🎯 Objetivo
 
-Criação de cenários e casos de teste
+Este projeto tem como objetivo aplicar na prática os conceitos de Testes Manuais Funcionais, simulando atividades realizadas no dia a dia de um profissional de QA em ambiente ágil.
 
+O foco foi exercitar análise de requisitos, planejamento de testes, criação de cenários e execução manual.
 
-Elaboração de mind map
+---
 
+## 📋 Atividades Desenvolvidas
 
-Execução de testes manuais
+- Levantamento e análise de requisitos  
+- Criação de cenários de teste  
+- Elaboração de casos de teste  
+- Construção de Mind Map  
+- Execução de testes manuais  
+- Identificação e registro de possíveis falhas  
 
+---
 
-Identificação e registro de bugs
+## 🧪 Estratégia de Testes
 
+- **Execução:** Manual  
+- **Nível de Teste:** Sistema e Aceite  
+- **Tipo de Teste:** Funcional (Caixa-preta)**  
 
-Simulação de fluxo de trabalho em metodologia ágil
+---
 
+## 🛠️ Ferramentas Utilizadas
 
+- Jira Software  
+- Confluence  
+- Mind Map  
+- GitHub  
 
-Estratégia de Testes
-Execução: Manual
+---
 
+## 📂 Evidências do Projeto
 
-Nível de Teste: Sistema e Aceite
+- 📌 Mind Map: [Clique aqui para visualizar](COLE_AQUI_O_LINK_DO_MINDMAP)
+- 📌 Casos de Teste: [Clique aqui para visualizar](COLE_AQUI_O_LINK_DOS_CASOS)
+- 📌 Plano de Teste: [Clique aqui para visualizar](COLE_AQUI_O_LINK_DO_PLANO)
 
+---
 
-Tipo de Teste: Funcional (Caixa-preta)
+## 🔄 Metodologia
 
+O projeto foi desenvolvido com base em metodologia ágil, utilizando conceitos como:
 
+- User Stories  
+- Critérios de Aceite  
+- Refinamento  
+- Planejamento  
+- Execução e validação  
 
-Ferramentas Utilizadas
-Jira Software (gerenciamento de tarefas e bugs)
+---
 
+## ✨ Aprendizados
 
-Confluence (documentação)
+Durante o desenvolvimento deste projeto, foi possível reforçar:
 
+- A importância da análise detalhada de requisitos  
+- Planejamento estruturado de testes  
+- Organização da documentação  
+- Pensamento crítico na identificação de falhas  
+- Visão prática do dia a dia de um QA  
 
-Mind Map (planejamento de testes)
+---
 
+## 👩‍💻 Autora
 
-GitHub (versionamento e documentação)
-
-
-
-Fluxo de Trabalho
-O fluxo de trabalho foi baseado em metodologia ágil, utilizando conceitos como:
-User Stories
-
-
-Critérios de Aceite
-
-
-Refinamento
-
-
-Planejamento de Sprint
-
-
-Execução e validação
-
-
-
-Sobre o Projeto
-Projeto desenvolvido como parte do bootcamp da DIO, com foco em capacitação prática em Testes Manuais Funcionais.
-
-Aprendizados
-Durante o desenvolvimento do projeto, foi possível reforçar:
-A importância da análise de requisitos
-
-
-Planejamento estruturado de testes
-
-
-Organização e documentação
-
-
-Pensamento crítico na identificação de falhas
-
+Projeto desenvolvido por **SEU NOME AQUI** como parte do Bootcamp de Qualidade de Software.
