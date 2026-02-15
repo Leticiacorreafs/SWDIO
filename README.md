@@ -61,9 +61,10 @@ Durante o desenvolvimento deste projeto, foi possível reforçar:
 - Pensamento crítico na identificação de falhas  
 - Visão prática do dia a dia de um QA  
 
----
+
 
 ##  Autora
 
 Projeto desenvolvido por Letícia Ferreira de Sousa Corrêa como parte do Bootcamp de Qualidade de Software.
+
 Instrutora: Carolina Santana Louzada
