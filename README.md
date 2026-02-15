@@ -1,9 +1,9 @@
-# 📌 Projeto QA  
+#  Projeto QA  
 ## A Prática de Testes Manuais Funcionais
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Este projeto tem como objetivo aplicar na prática os conceitos de Testes Manuais Funcionais, simulando atividades realizadas no dia a dia de um profissional de QA em ambiente ágil.
 
@@ -11,7 +11,7 @@ O foco foi exercitar análise de requisitos, planejamento de testes, criação d
 
 ---
 
-## 📋 Atividades Desenvolvidas
+##  Atividades Desenvolvidas
 
 - Levantamento e análise de requisitos  
 - Criação de cenários de teste  
@@ -22,15 +22,15 @@ O foco foi exercitar análise de requisitos, planejamento de testes, criação d
 
 ---
 
-## 🧪 Estratégia de Testes
+##  Estratégia de Testes
 
 - **Execução:** Manual  
 - **Nível de Teste:** Sistema e Aceite  
-- **Tipo de Teste:** Funcional (Caixa-preta)**  
+- **Tipo de Teste:** Funcional (Caixa-preta)  
 
 ---
 
-## 🛠️ Ferramentas Utilizadas
+##  Ferramentas Utilizadas
 
 - Jira Software  
 - Confluence  
@@ -39,15 +39,7 @@ O foco foi exercitar análise de requisitos, planejamento de testes, criação d
 
 ---
 
-## 📂 Evidências do Projeto
-
-- 📌 Mind Map: [Clique aqui para visualizar](COLE_AQUI_O_LINK_DO_MINDMAP)
-- 📌 Casos de Teste: [Clique aqui para visualizar](COLE_AQUI_O_LINK_DOS_CASOS)
-- 📌 Plano de Teste: [Clique aqui para visualizar](COLE_AQUI_O_LINK_DO_PLANO)
-
----
-
-## 🔄 Metodologia
+##  Metodologia
 
 O projeto foi desenvolvido com base em metodologia ágil, utilizando conceitos como:
 
@@ -59,7 +51,7 @@ O projeto foi desenvolvido com base em metodologia ágil, utilizando conceitos c
 
 ---
 
-## ✨ Aprendizados
+##  Aprendizados
 
 Durante o desenvolvimento deste projeto, foi possível reforçar:
 
