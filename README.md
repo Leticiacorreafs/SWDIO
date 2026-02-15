@@ -1,2 +1,0 @@
-# SWDIO
-Projeto QA
