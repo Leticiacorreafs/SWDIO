@@ -1,7 +1,7 @@
 #  Projeto QA  
 ## A Prática de Testes Manuais Funcionais
 
----
+
 
 ##  Objetivo
 
@@ -9,7 +9,7 @@ Este projeto tem como objetivo aplicar na prática os conceitos de Testes Manuai
 
 O foco foi exercitar análise de requisitos, planejamento de testes, criação de cenários e execução manual.
 
----
+
 
 ##  Atividades Desenvolvidas
 
@@ -20,7 +20,7 @@ O foco foi exercitar análise de requisitos, planejamento de testes, criação d
 - Execução de testes manuais  
 - Identificação e registro de possíveis falhas  
 
----
+
 
 ##  Estratégia de Testes
 
@@ -28,7 +28,7 @@ O foco foi exercitar análise de requisitos, planejamento de testes, criação d
 - **Nível de Teste:** Sistema e Aceite  
 - **Tipo de Teste:** Funcional (Caixa-preta)  
 
----
+
 
 ##  Ferramentas Utilizadas
 
@@ -37,7 +37,7 @@ O foco foi exercitar análise de requisitos, planejamento de testes, criação d
 - Mind Map  
 - GitHub  
 
----
+
 
 ##  Metodologia
 
@@ -49,7 +49,7 @@ O projeto foi desenvolvido com base em metodologia ágil, utilizando conceitos c
 - Planejamento  
 - Execução e validação  
 
----
+
 
 ##  Aprendizados
 
@@ -63,6 +63,7 @@ Durante o desenvolvimento deste projeto, foi possível reforçar:
 
 ---
 
-## 👩‍💻 Autora
+##  Autora
 
-Projeto desenvolvido por **SEU NOME AQUI** como parte do Bootcamp de Qualidade de Software.
+Projeto desenvolvido por Letícia Ferreira de Sousa Corrêa como parte do Bootcamp de Qualidade de Software.
+Instrutora: Carolina Santana Louzada
