@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project>
+    <projectId>10000</projectId>
+    <projectKey>SWDIO</projectKey>
+    <exportDate>2026-02-15 01:40:43 UTC</exportDate>
+    <folders/>
+    <testCases>
+        <testCase id="300077995" key="SWDIO-T1">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Leticia Ferreira de Sousa Corrêa</createdBy>
+            <createdOn>2026-02-10 23:58:33 UTC</createdOn>
+            <customFields/>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Cliente deseja acessar páginas de produtos por categoria]]></name>
+            <objective><![CDATA[Verificar se o cliente consegue acessar páginas específicas e visualizar produtos filtrados por categoria]]></objective>
+            <precondition><![CDATA[]]></precondition>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Acessar a URL do site SwagLabs]]></description>
+                        <expectedResult><![CDATA[Usuário deve visualizar a página inicial da loja virtual]]></expectedResult>
+                    </step>
+                    <step index="1">
+                        <customFields/>
+                        <description><![CDATA[Selecionar uma categoria de produtos no menu (ex: Camisetas)]]></description>
+                        <expectedResult><![CDATA[Usuário deve ser redirecionado para a página específica da categoria selecionada]]></expectedResult>
+                    </step>
+                    <step index="2">
+                        <customFields/>
+                        <description><![CDATA[Visualizar a lista de produtos exibidos na página da categoria]]></description>
+                        <expectedResult><![CDATA[Sistema deve exibir apenas produtos pertencentes à categoria selecionada]]></expectedResult>
+                    </step>
+                    <step index="3">
+                        <customFields/>
+                        <description><![CDATA[Selecionar outra categoria disponível no menu]]></description>
+                        <expectedResult><![CDATA[Sistema deve atualizar a página exibindo apenas os produtos da nova categoria selecionada]]></expectedResult>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+    </testCases>
+</project>

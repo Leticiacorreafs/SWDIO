@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project>
+    <projectId>10000</projectId>
+    <projectKey>SWDIO</projectKey>
+    <exportDate>2026-02-15 01:41:10 UTC</exportDate>
+    <folders/>
+    <testCases>
+        <testCase id="301943618" key="SWDIO-T4">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Leticia Ferreira de Sousa Corrêa</createdBy>
+            <createdOn>2026-02-14 23:12:09 UTC</createdOn>
+            <customFields/>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Aba de histórico de pedidos]]></name>
+            <objective><![CDATA[Permitir que clientes visualizem seus pedidos já realizados, incluindo produtos comprados e valores pagos.<br><br>]]></objective>
+            <owner>712020:002d1538-93fb-4848-8960-7c4d8c9156de</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="bdd">
+                <details><![CDATA[Visualização de pedidos anteriores
+  Given que o cliente está logado no site
+  When acessar a aba "Pedidos Anteriores"
+  Then o sistema deve exibir a lista de pedidos do cliente
+  And cada pedido deve conter número do pedido
+  And data da compra
+  And produtos comprados
+  And valor total pago
+  And caso não existam pedidos, deve exibir a mensagem "Você ainda não possui pedidos realizados."]]></details>
+            </testScript>
+        </testCase>
+    </testCases>
+</project>

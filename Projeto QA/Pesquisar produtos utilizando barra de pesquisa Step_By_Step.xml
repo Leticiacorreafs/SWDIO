@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project>
+    <projectId>10000</projectId>
+    <projectKey>SWDIO</projectKey>
+    <exportDate>2026-02-15 01:39:48 UTC</exportDate>
+    <folders/>
+    <testCases>
+        <testCase id="300078710" key="SWDIO-T2">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Leticia Ferreira de Sousa Corrêa</createdBy>
+            <createdOn>2026-02-11 00:15:37 UTC</createdOn>
+            <customFields/>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Cliente deseja pesquisar produtos utilizando a barra de pesquisa]]></name>
+            <objective><![CDATA[Verificar se o cliente consegue localizar produtos utilizando a barra de pesquisa do site]]></objective>
+            <owner>712020:002d1538-93fb-4848-8960-7c4d8c9156de</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Acessar a URL do site SwagLabs]]></description>
+                        <expectedResult><![CDATA[Usuário deve visualizar a página inicial da loja virtual]]></expectedResult>
+                    </step>
+                    <step index="1">
+                        <customFields/>
+                        <description><![CDATA[Localizar a barra de pesquisa no topo da página]]></description>
+                        <expectedResult><![CDATA[Sistema deve exibir a barra de pesquisa disponível para interação]]></expectedResult>
+                    </step>
+                    <step index="2">
+                        <customFields/>
+                        <description><![CDATA[Digitar o nome de um produto válido na barra de pesquisa]]></description>
+                        <expectedResult><![CDATA[Sistema deve aceitar o texto digitado pelo usuário]]></expectedResult>
+                    </step>
+                    <step index="3">
+                        <customFields/>
+                        <description><![CDATA[Clicar no botão de pesquisa ou pressionar a tecla Enter]]></description>
+                        <expectedResult><![CDATA[Sistema deve exibir uma lista de produtos compatíveis com o termo pesquisado]]></expectedResult>
+                    </step>
+                    <step index="4">
+                        <customFields/>
+                        <description><![CDATA[Visualizar os resultados retornados]]></description>
+                        <expectedResult><![CDATA[Sistema deve exibir apenas produtos relacionados ao termo pesquisado<br><br>]]></expectedResult>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+    </testCases>
+</project>

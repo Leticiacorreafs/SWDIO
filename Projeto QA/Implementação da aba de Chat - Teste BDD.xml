@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project>
+    <projectId>10000</projectId>
+    <projectKey>SWDIO</projectKey>
+    <exportDate>2026-02-15 01:09:50 UTC</exportDate>
+    <folders/>
+    <testCases>
+        <testCase id="301942111" key="SWDIO-T3">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Leticia Ferreira de Sousa Corrêa</createdBy>
+            <createdOn>2026-02-14 23:02:04 UTC</createdOn>
+            <customFields/>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Implementação da Aba de Chat]]></name>
+            <objective><![CDATA[Permitir que clientes conversem em tempo real com um vendedor diretamente no site para tirar dúvidas sobre produtos antes da compra.]]></objective>
+            <owner>712020:002d1538-93fb-4848-8960-7c4d8c9156de</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="bdd">
+                <details><![CDATA[Exibição da aba de chat:
+  Given que o cliente acessa a página principal do site
+  When a página for completamente carregada
+  Then o botão de chat deve estar visível no canto inferior direito
+
+  When o cliente clicar no botão de chat
+  Then a janela de conversa deve ser exibida
+
+  And o sistema deve exibir o status do vendedor como "Online" ou mensagem de indisponibilidade
+
+  When o cliente digitar uma mensagem válida
+  And clicar no botão enviar
+  Then a mensagem deve aparecer na conversa como enviada
+
+  When o vendedor responder
+  Then a resposta deve aparecer na conversa do cliente em tempo real
+
+  And o chat deve funcionar corretamente em desktop e mobile]]></details>
+            </testScript>
+        </testCase>
+    </testCases>
+</project>
